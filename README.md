@@ -1,9 +1,9 @@
 *WARNING! It is not yet useable, because it is under development. WARNING!*  
 
-**MM8D/PC * Growing house controlling device**  
-Copyright (C) 2020 Pozsár Zsolt <pozsar.zsolt@szerafingomba.hu>  
+**MM8D * Central controlling and remote monitoring device for growing house**  
+Copyright (C) 2020-2021 Pozsár Zsolt <pozsar.zsolt@szerafingomba.hu>  
 Homepage: <http://www.szerafingomba.hu/equipments/>  
-GitHub: <https://github.com/pozsarzs/mm8pc-hw>
+GitHub: <https://github.com/pozsarzs/mm8d-hw>
 
 **Documentation**
 
@@ -13,6 +13,6 @@ GitHub: <https://github.com/pozsarzs/mm8pc-hw>
 
 **Hardware**
 
- - version:            vxxxxxx
+ - version:            v210109
 
 *WARNING! It is not yet useable, because it is under development. WARNING!*  
