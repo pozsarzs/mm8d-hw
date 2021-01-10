@@ -1,0 +1,24 @@
+Connect to LPT port of PC or GPIO port of Raspberry Pi
+======================================================
+
+Pin     Pin of LPT      Pin of GPIO    Name
+--------------------------------------------
+J2/1    SLCT   13       GPIO2    3      -I1
+J2/2    PE     12       GPIO3    5      -I2
+J2/3    -ACK   10       GPIO4    7      -I3
+J2/4    -BUSY  11       GPIO17  11      -I4
+J3/1    (+5V)           +5V      2,4    +5V
+J3/2    (GND)           GND      6      GND
+J3/3    GND    18-25    GND     14      GND
+J3/4    (no connect)    +3.3V    1,17   +3.3V
+J4/1    D0      2       GPIO27  13      OR1
+J4/2    D1      3       GPIO22  15      OR2
+J4/3    D2      4       GPIO5   29      OR3
+J4/4    D3      5       GPIO6   31      OR4
+J5/1    D4      6       GPIO13  33      OOC1
+J5/2    D5      7       GPIO19  35      OOC2
+J5/3    D6      7       GPIO26  37      OOC3
+J5/4    D7      8       GPIO21  40      OOC4
+
+--------------------------------------------------------------------------------
+ MM8D * Copyright (C) 2020-2021 Pozsar Zsolt <pozsar.zsolt@szerafingomba.hu>
