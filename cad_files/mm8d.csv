@@ -1,11 +1,12 @@
 Source,/home/pozsarzs/Git/mm8d-hw/cad_files/mm8d.sch
 Kicad Rev,Eeschema 4.0.5+dfsg1-4
-Generated Date,2021. jan.  9., szombat, 20:23:20 CET
+Generated Date,2021. márc. 25., csütörtök, 08:17:47 CET
 
 Title,MM8D Central controlling and remote monitoring device
 Company,Pozsar Zsolt - http://www.szerafingomba.hu
-Revision,210108
-Date Issue,2021-01-08
+Revision,2100325
+Date Issue,2021-03-25
+Comment,Interface card
 Comment,Draw no.: 59/13/2
 
 Reference,Value,Library,Library Ref
@@ -28,10 +29,10 @@ J9,Screw_Terminal_1x03,conn,Screw_Terminal_1x03
 J8,Screw_Terminal_1x03,conn,Screw_Terminal_1x03
 J4,Screw_Terminal_1x04,conn,Screw_Terminal_1x04
 J5,Screw_Terminal_1x04,conn,Screw_Terminal_1x04
-R13,1.5k,device,R
-Q4,BC548C,device,Q_NPN_CBE
+R17,1.5k,device,R
+Q7,BC548C,device,Q_NPN_CBE
+Q5,BC548C,device,Q_NPN_CBE
 Q3,BC548C,device,Q_NPN_CBE
-Q2,BC548C,device,Q_NPN_CBE
 Q1,BC548C,device,Q_NPN_CBE
 D19,1N4001,device,D
 J6,Screw_Terminal_1x03,conn,Screw_Terminal_1x03
@@ -51,12 +52,12 @@ D13,LED,device,LED
 D14,LED,device,LED
 JP1,Jumper_NC_Small,device,Jumper_NC_Small
 JP2,Jumper_NO_Small,device,Jumper_NO_Small
-C1,100n,device,C
 C2,100n,device,C
+C1,100n,device,C
 C3,470u,device,CP
 D10,LED,device,LED
-R16,3,6k,device,R
-C4,47u,device,CP
+R21,3,6k,device,R
+C4,4.7u,device,CP
 D9,1N4001,device,D
 R2,9.1k,device,R
 R3,9.1k,device,R
@@ -67,22 +68,26 @@ D3,1N4001,device,D
 D20,1N4001,device,D
 D21,1N4001,device,D
 D22,1N4001,device,D
-Q5,BC548C,device,Q_NPN_CBE
+Q2,BC548C,device,Q_NPN_CBE
+Q4,BC548C,device,Q_NPN_CBE
 Q6,BC548C,device,Q_NPN_CBE
-Q7,BC548C,device,Q_NPN_CBE
 Q8,BC548C,device,Q_NPN_CBE
 D15,LED,device,LED
 D16,LED,device,LED
 D17,LED,device,LED
 D18,LED,device,LED
 R9,4.7k,device,R
-R10,4.7k,device,R
 R11,4.7k,device,R
-R12,4.7k,device,R
-R14,1.5k,device,R
-R15,1.5k,device,R
-R17,1.5k,device,R
+R13,4.7k,device,R
+R15,4.7k,device,R
 R18,1.5k,device,R
 R19,1.5k,device,R
 R20,1.5k,device,R
-R21,1.5k,device,R
+R22,1.5k,device,R
+R23,1.5k,device,R
+R24,1.5k,device,R
+R25,1.5k,device,R
+R10,1k,device,R
+R12,1k,device,R
+R14,1k,device,R
+R16,1k,device,R

@@ -1,4 +1,4 @@
-update=2021. jan.  8., péntek, 19:49:01 CET
+update=2021. márc. 25., csütörtök, 07:50:01 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=relay_leg-5
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
