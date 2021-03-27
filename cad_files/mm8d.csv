@@ -1,11 +1,11 @@
 Source,/home/pozsarzs/Git/mm8d-hw/cad_files/mm8d.sch
 Kicad Rev,Eeschema 4.0.5+dfsg1-4
-Generated Date,2021. márc. 25., csütörtök, 08:17:47 CET
+Generated Date,2021. márc. 27., szombat, 19:43:40 CET
 
 Title,MM8D Central controlling and remote monitoring device
 Company,Pozsar Zsolt - http://www.szerafingomba.hu
-Revision,2100325
-Date Issue,2021-03-25
+Revision,210326
+Date Issue,2021-03-26
 Comment,Interface card
 Comment,Draw no.: 59/13/2
 
@@ -29,7 +29,7 @@ J9,Screw_Terminal_1x03,conn,Screw_Terminal_1x03
 J8,Screw_Terminal_1x03,conn,Screw_Terminal_1x03
 J4,Screw_Terminal_1x04,conn,Screw_Terminal_1x04
 J5,Screw_Terminal_1x04,conn,Screw_Terminal_1x04
-R17,1.5k,device,R
+R17,620,device,R
 Q7,BC548C,device,Q_NPN_CBE
 Q5,BC548C,device,Q_NPN_CBE
 Q3,BC548C,device,Q_NPN_CBE
@@ -56,7 +56,7 @@ C2,100n,device,C
 C1,100n,device,C
 C3,470u,device,CP
 D10,LED,device,LED
-R21,3,6k,device,R
+R21,1k,device,R
 C4,4.7u,device,CP
 D9,1N4001,device,D
 R2,9.1k,device,R
@@ -80,14 +80,16 @@ R9,4.7k,device,R
 R11,4.7k,device,R
 R13,4.7k,device,R
 R15,4.7k,device,R
-R18,1.5k,device,R
-R19,1.5k,device,R
-R20,1.5k,device,R
-R22,1.5k,device,R
-R23,1.5k,device,R
-R24,1.5k,device,R
-R25,1.5k,device,R
-R10,1k,device,R
-R12,1k,device,R
-R14,1k,device,R
-R16,1k,device,R
+R18,620,device,R
+R19,620,device,R
+R20,620,device,R
+R22,620,device,R
+R23,620,device,R
+R24,620,device,R
+R25,620,device,R
+R10,750,device,R
+R12,750,device,R
+R14,750,device,R
+R16,750,device,R
+D23,LED,device,LED
+R26,620,device,R
