@@ -35,7 +35,7 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "MM8D Central controlling and remote monitoring device"
+Title "MM8D Central controlling device"
 Date "2021-03-26"
 Rev "210326"
 Comp "Pozsar Zsolt - http://www.szerafingomba.hu"

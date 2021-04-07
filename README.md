@@ -13,6 +13,6 @@ GitHub: <https://github.com/pozsarzs/mm8d-hw>
 
 **Hardware**
 
- - version:            v210109
+ - version:            v210326
 
 *WARNING! It is not yet useable, because it is under development. WARNING!*  

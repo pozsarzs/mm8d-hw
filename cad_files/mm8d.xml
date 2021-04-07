@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/pozsarzs/Git/mm8d-hw/cad_files/mm8d.sch</source>
-    <date>2021. márc. 27., szombat, 19:43:40 CET</date>
+    <source>/home/pozsarzs/Dev/mm8d-hw/cad_files/mm8d.sch</source>
+    <date>2021. ápr.  4., vasárnap, 06:52:16 CEST</date>
     <tool>Eeschema 4.0.5+dfsg1-4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -865,17 +865,17 @@
     <library logical="device">
       <uri>/usr/share/kicad/library/device.lib</uri>
     </library>
-    <library logical="conn">
-      <uri>/usr/share/kicad/library/conn.lib</uri>
-    </library>
     <library logical="74xx">
       <uri>/usr/share/kicad/library/74xx.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
     </library>
     <library logical="opto">
       <uri>/usr/share/kicad/library/opto.lib</uri>
     </library>
     <library logical="relay_leg-5">
-      <uri>/home/pozsarzs/Git/mm8d-hw/cad_files/relay_leg-5.lib</uri>
+      <uri>/home/pozsarzs/Dev/mm8d-hw/cad_files/relay_leg-5.lib</uri>
     </library>
   </libraries>
   <nets>
