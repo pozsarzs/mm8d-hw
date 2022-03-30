@@ -11,7 +11,7 @@ Comment,Draw no.: 59/13/2
 
 Reference,Value,Library,Library Ref
 J1,Screw_Terminal_1x05,conn,Screw_Terminal_1x05
-R1,9.1k,device,R
+R1,3.9k,device,R
 D1,1N4001,device,D
 U1,4N25,opto,4N25
 U2,4N25,opto,4N25
@@ -59,9 +59,9 @@ D10,LED,device,LED
 R21,1k,device,R
 C4,4.7u,device,CP
 D9,1N4001,device,D
-R2,9.1k,device,R
-R3,9.1k,device,R
-R4,9.1k,device,R
+R2,3.9k,device,R
+R3,3.9k,device,R
+R4,3.9k,device,R
 D2,1N4001,device,D
 D4,1N4001,device,D
 D3,1N4001,device,D

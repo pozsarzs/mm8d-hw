@@ -27,7 +27,7 @@
       <tstamp>5FF89AF1</tstamp>
     </comp>
     <comp ref="R1">
-      <value>9.1k</value>
+      <value>3.9k</value>
       <footprint>Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
@@ -363,21 +363,21 @@
       <tstamp>5FFC0D4E</tstamp>
     </comp>
     <comp ref="R2">
-      <value>9.1k</value>
+      <value>3.9k</value>
       <footprint>Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FFD07AC</tstamp>
     </comp>
     <comp ref="R3">
-      <value>9.1k</value>
+      <value>3.9k</value>
       <footprint>Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FFD092E</tstamp>
     </comp>
     <comp ref="R4">
-      <value>9.1k</value>
+      <value>3.9k</value>
       <footprint>Resistors_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal</footprint>
       <libsource lib="device" part="R"/>
       <sheetpath names="/" tstamps="/"/>
